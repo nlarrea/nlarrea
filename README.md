@@ -3,10 +3,18 @@
 <img width="719" alt="logo_NL" src="https://user-images.githubusercontent.com/110897750/184249800-567fbe55-8af9-4427-bff9-4aee03427c36.png">
 <img width="719" alt="logo_white" src="https://user-images.githubusercontent.com/110897750/184250117-f864aeb3-108b-4571-a94c-973ae763cf2f.png">
 -->
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/110897750/184250117-f864aeb3-108b-4571-a94c-973ae763cf2f.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/110897750/184249800-567fbe55-8af9-4427-bff9-4aee03427c36.png">
   <img width="200" alt="Shows a black logo in light color mode and a white logo in dark color mode" src="https://user-images.githubusercontent.com/110897750/184250117-f864aeb3-108b-4571-a94c-973ae763cf2f.png">
+</picture>
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/110897750/184330513-dd34c2e6-a96f-434d-a056-a68396346d38.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/110897750/184330659-a2213236-88f9-4e2c-94e3-bab2bdaeb75d.png">
+  <img width="805" alt="Shows a light header in light color mode and a dark header in dark color mode" src="https://user-images.githubusercontent.com/110897750/184330659-a2213236-88f9-4e2c-94e3-bab2bdaeb75d.png">
 </picture>
 
 <!-- PARA USAR UNA "SECCIÓN COLAPSADA" (un desplegable) USAR HTML: -->
