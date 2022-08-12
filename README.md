@@ -6,8 +6,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/110897750/184342147-19bd7442-f86a-469d-bf40-3495f4de8644.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/110897750/184337185-c86d3a4c-a755-4a05-9743-484f51007e6d.png">
-  <img width="811" alt="Shows a light header in light color mode and a dark header in dark color mode" src="https://user-images.githubusercontent.com/110897750/184337185-c86d3a4c-a755-4a05-9743-484f51007e6d.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/110897750/184353604-68c0932b-2302-46b8-89d5-13f256bd112c.png">
+  <img width="811" alt="Shows a light header in light color mode and a dark header in dark color mode" src="https://user-images.githubusercontent.com/110897750/184353604-68c0932b-2302-46b8-89d5-13f256bd112c.png">
 </picture>
 
 <p></p>
