@@ -37,6 +37,8 @@ La idea es utilizar esta herramienta a modo de repositorio para proyectos person
 ## Encuéntrame en:
   - <img width="16" alt="instagram_logo" src="https://user-images.githubusercontent.com/110897750/184251100-51758ebf-4995-42f8-a34e-30e659bd2708.png"> [n.loust](https://www.instagram.com/n.loust/)
   - <img width="16" alt="twitter_logo" src="https://user-images.githubusercontent.com/110897750/184251536-c7f1c9e4-5232-4d08-b3e6-0d8cf1c9a07c.png"> [N_Loust](https://twitter.com/N_Loust)
+  - <img width="16" alt="linkedin_logo" src="https://user-images.githubusercontent.com/110897750/184411287-e064d7c8-b2f7-4395-a920-0444a2eeeb98.png"> [Naia Larrea](https://www.linkedin.com/in/naia-larrea/)
+
 <!--
 <img width=".." alt=".." src=".."> hacen referencia a las imagenes tanto del insta como de twitter que he colocado
 [nombre](url) hace referencia a un link cualquiera, en mi caso, mis RRSS
