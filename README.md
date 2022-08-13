@@ -5,9 +5,9 @@
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/110897750/184342147-19bd7442-f86a-469d-bf40-3495f4de8644.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/110897750/184353604-68c0932b-2302-46b8-89d5-13f256bd112c.png">
-  <img width="811" alt="Shows a light header in light color mode and a dark header in dark color mode" src="https://user-images.githubusercontent.com/110897750/184353604-68c0932b-2302-46b8-89d5-13f256bd112c.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/110897750/184477567-21332b83-93a1-4309-b60f-382d37689c6e.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/110897750/184477586-1278d864-bade-4603-b0f1-30adaddbde78.png">
+  <img width="811" alt="Shows a light header in light color mode and a dark header in dark color mode" src="https://user-images.githubusercontent.com/110897750/184477586-1278d864-bade-4603-b0f1-30adaddbde78.png">
 </picture>
 
 <p></p>
@@ -35,8 +35,8 @@ La idea es utilizar esta herramienta a modo de repositorio para proyectos person
 **.. ¡No dudes en comentar posibles mejoras!** Estoy aquí para aprender y, ¡toda la ayuda es **bienvenida**!
 
 ## Encuéntrame en:
-  - <img width="16" alt="instagram_logo" src="https://user-images.githubusercontent.com/110897750/184251100-51758ebf-4995-42f8-a34e-30e659bd2708.png"> [n.loust](https://www.instagram.com/n.loust/)
-  - <img width="16" alt="twitter_logo" src="https://user-images.githubusercontent.com/110897750/184251536-c7f1c9e4-5232-4d08-b3e6-0d8cf1c9a07c.png"> [N_Loust](https://twitter.com/N_Loust)
+  - <img width="16" alt="instagram_logo" src="https://user-images.githubusercontent.com/110897750/184251100-51758ebf-4995-42f8-a34e-30e659bd2708.png"> [@n.loust](https://www.instagram.com/n.loust/)
+  - <img width="16" alt="twitter_logo" src="https://user-images.githubusercontent.com/110897750/184251536-c7f1c9e4-5232-4d08-b3e6-0d8cf1c9a07c.png"> [@nloust_](https://twitter.com/nloust_)
   - <img width="16" alt="linkedin_logo" src="https://user-images.githubusercontent.com/110897750/184411287-e064d7c8-b2f7-4395-a920-0444a2eeeb98.png"> [Naia Larrea](https://www.linkedin.com/in/naia-larrea/)
 
 <!--
