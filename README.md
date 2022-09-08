@@ -1,20 +1,20 @@
-# Hola, soy NLarrea!
-<!-- COMENTARIO: todo lo que está entre la línea 2 y 5 no se muestra
-<img width="719" alt="logo_black" src="https://user-images.githubusercontent.com/110897750/184249800-567fbe55-8af9-4427-bff9-4aee03427c36.png">
-<img width="719" alt="logo_white" src="https://user-images.githubusercontent.com/110897750/184250117-f864aeb3-108b-4571-a94c-973ae763cf2f.png">
--->
+# ¡Hola, soy NLarrea!
+<div align="right">
+<a href="https://twitter.com/nloust_" target="_blank"><img width="16" alt="twitter_logo" src="https://user-images.githubusercontent.com/110897750/189209787-bf404518-5f3f-405c-acda-e8eeb1be000e.svg"></a>&emsp;<a href="https://www.instagram.com/n.loust/" target="_blank"><img width="16" alt="instagram_logo" src="https://user-images.githubusercontent.com/110897750/189210726-6b14765c-2bd7-4379-8cb8-33648299ae85.svg"></a>&emsp;<a href="https://www.linkedin.com/in/naia-larrea/" target="_blank"><img width="16" alt="linkedin_logo" src="https://user-images.githubusercontent.com/110897750/189210808-c56e1ae3-91b1-4655-ba67-b74d04745d67.svg"></a>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/110897750/184477567-21332b83-93a1-4309-b60f-382d37689c6e.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/110897750/184477586-1278d864-bade-4603-b0f1-30adaddbde78.png">
-  <img width="811" alt="Shows a light header in light color mode and a dark header in dark color mode" src="https://user-images.githubusercontent.com/110897750/184477586-1278d864-bade-4603-b0f1-30adaddbde78.png">
-</picture>
+<div align="center"> <!-- para alinear la imagen en el centro -->
+  <picture> <!-- para mostrar una imagen distinta según el tema de GitHub -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/110897750/189206123-8d8b0980-63a4-41cc-850c-3d603e24b9d4.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/110897750/189206247-f13a90fb-dffa-4323-944d-3b0b72b3f219.png">
+    <img width="811" alt="Shows a light header in light color mode and a dark header in dark color mode" src="https://user-images.githubusercontent.com/110897750/189206247-f13a90fb-dffa-4323-944d-3b0b72b3f219.png">
+  </picture>
+</div>
 
-<p></p>
-<!-- PARA USAR UNA "SECCIÓN COLAPSADA" (un desplegable) USAR HTML: -->
-<details><summary>Estudios</summary>
-<p></p>
-  <ul> <!-- todo lo que vaya entre <ul></ul> será una lista-->
+<br/>
+<!-- desplegable sobre mis estudios: -->
+<details><summary>Mis estudios</summary>
+  <ul> <!-- lista con mis estudios realizados -->
     <li type="disc">Ingeniería Electrónica Industrial y Automática</li> <!-- elementos de lista. "disc" hace referencia a un punto negro sin más -->
     <li type="disc">Especialización en Gestión de medios de producción en la industria altamente automatizada</li>
     <li type="disc">Grado superior de Robótica y Automatización Industrial</li>
@@ -35,11 +35,6 @@ La idea es utilizar esta herramienta a modo de repositorio para proyectos person
 **.. ¡No dudes en comentar posibles mejoras!** Estoy aquí para aprender y, ¡toda la ayuda es **bienvenida**!
 
 ## Encuéntrame en:
-  - <img width="16" alt="instagram_logo" src="https://user-images.githubusercontent.com/110897750/184251100-51758ebf-4995-42f8-a34e-30e659bd2708.png"> [@n.loust](https://www.instagram.com/n.loust/)
-  - <img width="16" alt="twitter_logo" src="https://user-images.githubusercontent.com/110897750/184251536-c7f1c9e4-5232-4d08-b3e6-0d8cf1c9a07c.png"> [@nloust_](https://twitter.com/nloust_)
-  - <img width="16" alt="linkedin_logo" src="https://user-images.githubusercontent.com/110897750/184411287-e064d7c8-b2f7-4395-a920-0444a2eeeb98.png"> [Naia Larrea](https://www.linkedin.com/in/naia-larrea/)
-
-<!--
-<img width=".." alt=".." src=".."> hacen referencia a las imagenes tanto del insta como de twitter que he colocado
-[nombre](url) hace referencia a un link cualquiera, en mi caso, mis RRSS
--->
+&emsp;<a href="https://twitter.com/nloust_" target="_blank"><img width="16" alt="twitter_logo" src="https://user-images.githubusercontent.com/110897750/189209787-bf404518-5f3f-405c-acda-e8eeb1be000e.svg"> @nloust_</a> <!-- twitter: -->
+&emsp;<a href="https://www.instagram.com/n.loust/" target="_blank"><img width="16" alt="instagram_logo" src="https://user-images.githubusercontent.com/110897750/189210726-6b14765c-2bd7-4379-8cb8-33648299ae85.svg"> @n.loust</a> <!-- instagram: -->
+&emsp;<a href="https://www.linkedin.com/in/naia-larrea/" target="_blank"><img width="16" alt="linkedin_logo" src="https://user-images.githubusercontent.com/110897750/189210808-c56e1ae3-91b1-4655-ba67-b74d04745d67.svg"> Naia Larrea</a> <!-- linkedin: -->
