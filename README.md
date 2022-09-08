@@ -6,8 +6,8 @@
 <div align="center"> <!-- para alinear la imagen en el centro -->
   <picture> <!-- para mostrar una imagen distinta según el tema de GitHub -->
     <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/110897750/189206123-8d8b0980-63a4-41cc-850c-3d603e24b9d4.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/110897750/189206247-f13a90fb-dffa-4323-944d-3b0b72b3f219.png">
-    <img width="811" alt="Shows a light header in light color mode and a dark header in dark color mode" src="https://user-images.githubusercontent.com/110897750/189206247-f13a90fb-dffa-4323-944d-3b0b72b3f219.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/110897750/189229193-4512c056-e934-4338-b5f2-a5131841e22a.png">
+    <img width="811" alt="Shows a light header in light color mode and a dark header in dark color mode" src="https://user-images.githubusercontent.com/110897750/189229193-4512c056-e934-4338-b5f2-a5131841e22a.png">
   </picture>
 </div>
 
