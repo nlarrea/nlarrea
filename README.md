@@ -1,6 +1,6 @@
 # ¡Hola, soy NLarrea!
 <div align="right">
-<a href="https://twitter.com/nloust_" target="_blank"><img width="16" alt="twitter_logo" src="https://user-images.githubusercontent.com/110897750/189209787-bf404518-5f3f-405c-acda-e8eeb1be000e.svg"></a>&emsp;<a href="https://www.instagram.com/n.loust/" target="_blank"><img width="16" alt="instagram_logo" src="https://user-images.githubusercontent.com/110897750/189210726-6b14765c-2bd7-4379-8cb8-33648299ae85.svg"></a>&emsp;<a href="https://www.linkedin.com/in/naia-larrea/" target="_blank"><img width="16" alt="linkedin_logo" src="https://user-images.githubusercontent.com/110897750/189210808-c56e1ae3-91b1-4655-ba67-b74d04745d67.svg"></a>
+<a href="https://twitter.com/nloust_"><img width="16" alt="twitter_logo" src="https://user-images.githubusercontent.com/110897750/195668304-54d1fbb3-bea1-4f9d-9ee7-7e494bd79013.png"></a>&emsp;<a href="https://www.instagram.com/n.loust/"><img width="16" alt="instagram_logo" src="https://seeklogo.com/images/I/instagram-new-2016-logo-4773FE3F99-seeklogo.com.png"></a>&emsp;<a href="https://www.linkedin.com/in/naia-larrea/"><img width="16" alt="linkedin_logo" src="https://user-images.githubusercontent.com/110897750/195669519-30e44b5d-4bef-47d3-9e37-81cff0ee5e55.png"></a>
 </div>
 
 <div align="center"> <!-- para alinear la imagen en el centro -->
@@ -35,6 +35,6 @@ La idea es utilizar esta herramienta a modo de repositorio para proyectos person
 **.. ¡No dudes en comentar posibles mejoras!** Estoy aquí para aprender y, ¡toda la ayuda es **bienvenida**!
 
 ## Encuéntrame en:
-&emsp;<a href="https://twitter.com/nloust_" target="_blank"><img width="16" alt="twitter_logo" src="https://user-images.githubusercontent.com/110897750/189209787-bf404518-5f3f-405c-acda-e8eeb1be000e.svg"> @nloust_</a> <!-- twitter: -->
-&emsp;<a href="https://www.instagram.com/n.loust/" target="_blank"><img width="16" alt="instagram_logo" src="https://user-images.githubusercontent.com/110897750/189210726-6b14765c-2bd7-4379-8cb8-33648299ae85.svg"> @n.loust</a> <!-- instagram: -->
-&emsp;<a href="https://www.linkedin.com/in/naia-larrea/" target="_blank"><img width="16" alt="linkedin_logo" src="https://user-images.githubusercontent.com/110897750/189210808-c56e1ae3-91b1-4655-ba67-b74d04745d67.svg"> Naia Larrea</a> <!-- linkedin: -->
+&emsp;<a href="https://twitter.com/nloust_"><img width="16" alt="twitter_logo" src="https://user-images.githubusercontent.com/110897750/195668304-54d1fbb3-bea1-4f9d-9ee7-7e494bd79013.png"> @nloust_</a> <!-- twitter: -->
+&emsp;<a href="https://www.instagram.com/n.loust/"><img width="16" alt="instagram_logo" src="https://seeklogo.com/images/I/instagram-new-2016-logo-4773FE3F99-seeklogo.com.png"> @n.loust</a> <!-- instagram: -->
+&emsp;<a href="https://www.linkedin.com/in/naia-larrea/"><img width="16" alt="linkedin_logo" src="https://user-images.githubusercontent.com/110897750/195669519-30e44b5d-4bef-47d3-9e37-81cff0ee5e55.png"> Naia Larrea</a> <!-- linkedin: -->
