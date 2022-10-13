@@ -24,15 +24,15 @@
 </details>
 
 ## Aprendiendo a programar
-Soy estudiante de **Ingeniería Electrónica Industrial y Automática**.
-Antes de comenzar mi camino en la universidad estudié un grado superior de **Robótica y Automatización Industrial** donde descubrí que me encantaba programar autómatas.
+<p align="justify">Soy estudiante de <strong>Ingeniería Electrónica Industrial y Automática</strong>.
+Antes de comenzar mi camino en la universidad estudié un grado superior de <strong>Robótica y Automatización Industrial</strong> donde descubrí que me encantaba programar autómatas.</p>
 
-A día de hoy, estoy terminando mis estudios mientras doy algunas pinceladas en el _mundillo de la programación_, aprendiendo nuevos lenguajes o realizando proyectos personales con lenguajes que ya conozco, con el objetivo de mejorar en la materia.
+<p align="justify">A día de hoy, estoy terminando mis estudios mientras doy algunas pinceladas en el <i>mundillo de la programación</i>, aprendiendo nuevos lenguajes o realizando proyectos personales con lenguajes que ya conozco, con el objetivo de mejorar en la materia.</p>
 
 ## GitHub
-La idea es utilizar esta herramienta a modo de repositorio para proyectos personales, por lo que es probable que mis repositorios sean privados. Sin embargo, en caso de tener algún repositorio público..
+<p align="justify">La idea es utilizar esta herramienta a modo de repositorio para proyectos personales, por lo que es probable que mis repositorios sean privados. Sin embargo, en caso de tener algún repositorio público..</p>
 
-**.. ¡No dudes en comentar posibles mejoras!** Estoy aquí para aprender y, ¡toda la ayuda es **bienvenida**!
+<strong>.. ¡No dudes en comentar posibles mejoras!</strong> Estoy aquí para aprender y, ¡toda la ayuda es <strong>bienvenida</strong>!
 
 ## Encuéntrame en:
 &emsp;<a href="https://twitter.com/nloust_"><img width="16" alt="twitter_logo" src="https://user-images.githubusercontent.com/110897750/195668304-54d1fbb3-bea1-4f9d-9ee7-7e494bd79013.png"> @nloust_</a> <!-- twitter: -->
