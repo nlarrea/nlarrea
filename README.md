@@ -16,7 +16,7 @@
 </div> -->
 
 
-<img align="right" src="https://user-images.githubusercontent.com/110897750/202553655-6a8980f0-9a07-48e7-875c-73ce184cb525.png" width="271"/>
+<img align="right" src="https://user-images.githubusercontent.com/110897750/202553655-6a8980f0-9a07-48e7-875c-73ce184cb525.png" width="30%"/>
 
 
 ## 🌱 Aprendiendo a programar
