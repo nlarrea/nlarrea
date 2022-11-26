@@ -69,7 +69,7 @@ Antes de comenzar mi camino en la universidad estudié un grado superior de <str
 * Para aprender cositas de teoría (algunos están en progreso):
 
 [![Curso HTML y CSS](https://github-readme-stats.vercel.app/api/pin/?username=NLarrea&repo=Curso-HTML-CSS&show_owner=true)](https://github.com/NLarrea/Curso-HTML-CSS)
-[![Curso JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=NLarrea&repo=Curso-JavaScript&show_owner=true)](https://github.com/NLarrea/Curso-JavaScript)
+[![Curso de R](https://github-readme-stats.vercel.app/api/pin/?username=NLarrea&repo=R-desde-cero&show_owner=true)](https://github.com/NLarrea/R-desde-cero)
 
 <br>
 
