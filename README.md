@@ -1,9 +1,9 @@
-# ¡Hola, soy NLarrea!
+# ¡Hola, soy nlarrea!
 
 [![Twitter](https://img.shields.io/badge/@nloust__-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nloust_)
 [![Instagram](https://img.shields.io/badge/@n.loust-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/n.loust)
 [![LinkedIn](https://img.shields.io/badge/Naia_Larrea-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naia-larrea/)
-[![Visitas](https://visitcount.itsvg.in/api?id=NLarrea&label=Visitas&color=12&icon=6&pretty=true)](https://github.com/NLarrea)
+[![Visitas](https://visitcount.itsvg.in/api?id=nlarrea&label=Visitas&color=12&icon=6&pretty=true)](https://github.com/nlarrea)
 
 
 <!-- para mostrar una imagen distinta según el tema de GitHub -->
@@ -68,15 +68,15 @@ Antes de comenzar mi camino en la universidad estudié un grado superior de <str
 
 * Para aprender cositas de teoría (algunos están en progreso):
 
-[![Curso HTML y CSS](https://github-readme-stats.vercel.app/api/pin/?username=NLarrea&repo=Curso-HTML-CSS&show_owner=true)](https://github.com/NLarrea/Curso-HTML-CSS)
-[![Curso de R](https://github-readme-stats.vercel.app/api/pin/?username=NLarrea&repo=R-desde-cero&show_owner=true)](https://github.com/NLarrea/R-desde-cero)
+[![Curso de R](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=R-desde-cero&show_owner=true)](https://github.com/nlarrea/R-desde-cero)
+[![Curso HTML y CSS](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=Curso-HTML-CSS&show_owner=true)](https://github.com/nlarrea/Curso-HTML-CSS)
 
 <br>
 
 * ¿Alguien dijo algo de retos?
 
-[![Challenge JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=NLarrea&repo=CodingChallenge-JavaScript&show_owner=true)](https://github.com/NLarrea/CodingChallenge-JavaScript)
-[![Challenge Python](https://github-readme-stats.vercel.app/api/pin/?username=NLarrea&repo=CodingChallenge-Python&show_owner=true)](https://github.com/NLarrea/CodingChallenge-Python)
+[![Challenge JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=CodingChallenge-JavaScript&show_owner=true)](https://github.com/nlarrea/CodingChallenge-JavaScript)
+[![Challenge Python](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=CodingChallenge-Python&show_owner=true)](https://github.com/nlarrea/CodingChallenge-Python)
 
 
 <br>
@@ -84,6 +84,6 @@ Antes de comenzar mi camino en la universidad estudié un grado superior de <str
 
 ### 📈 Estadísticas
 
-[![NLarrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=NLarrea&theme=onedark)](https://github.com/NLarrea/github-readme-stats)
-![NLarrea's Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NLarrea&theme=onedark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NLarrea&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![nlarrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlarrea&theme=onedark)](https://github.com/nlarrea/github-readme-stats)
+![nlarrea's Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nlarrea&theme=onedark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nlarrea&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
