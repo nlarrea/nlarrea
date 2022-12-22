@@ -3,7 +3,6 @@
 [![Twitter](https://img.shields.io/badge/@nloust__-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nloust_)
 [![Instagram](https://img.shields.io/badge/@n.loust-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/n.loust)
 [![LinkedIn](https://img.shields.io/badge/Naia_Larrea-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naia-larrea/)
-[![Visitas](https://visitcount.itsvg.in/api?id=nlarrea&label=Visitas&color=12&icon=6&pretty=true)](https://github.com/nlarrea)
 
 
 <!-- para mostrar una imagen distinta según el tema de GitHub -->
