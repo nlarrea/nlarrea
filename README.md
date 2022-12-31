@@ -15,10 +15,26 @@
 </div> -->
 
 
-<img align="right" src="https://user-images.githubusercontent.com/110897750/202553655-6a8980f0-9a07-48e7-875c-73ce184cb525.png" width="30%"/>
+<!-- <img align="right" src="https://user-images.githubusercontent.com/110897750/202553655-6a8980f0-9a07-48e7-875c-73ce184cb525.png" width="30%"/> -->
 
 
 ## 🌱 Aprendiendo a programar
+
+```javascript
+const nlarrea = {
+
+    name: "Naia",
+    pronouns: "She" | "Her",
+    code: ["HTML", "CSS", "JavaScript", "Python", "R"],
+    languages: ["en_US", "es_ES", "eu_ES"],
+    
+    sayHi: function(){
+        console.log("Hello there!");
+    }
+}
+```
+
+<br>
 
 <p align="justify">Soy estudiante de <strong>Ingeniería Electrónica Industrial y Automática</strong>.
 Antes de comenzar mi camino en la universidad estudié un grado superior de <strong>Robótica y Automatización Industrial</strong> donde descubrí que me encantaba programar autómatas.</p>
