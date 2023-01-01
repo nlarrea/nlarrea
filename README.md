@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy nlarrea!
+# 👋 ¡Hola, soy Naia!
 
 <img align="center" src="https://user-images.githubusercontent.com/110897750/210169202-4c3796f9-4a53-4cca-b8ba-650e373767ec.png"/>
 
@@ -8,7 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/Naia_Larrea-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naia-larrea/)
 
 
-<!-- para mostrar una imagen distinta según el tema de GitHub -->
 <!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/110897750/189206123-8d8b0980-63a4-41cc-850c-3d603e24b9d4.png">
@@ -28,11 +27,12 @@ Antes de comenzar mi camino en la universidad estudié un grado superior de <str
 <!-- desplegable sobre mis estudios: -->
 <details><summary>Mis estudios</summary>
   <ul> <!-- lista con mis estudios realizados -->
-    <li type="disc">Ingeniería Electrónica Industrial y Automática</li> <!-- elementos de lista. "disc" hace referencia a un punto negro sin más -->
+    <li type="disc">Coding Foundations, impartido por Bottega University</li>
+    <li type="disc">Ingeniería Electrónica Industrial y Automática, en la Escuela de Ingenieros de Bilbao</li>
+    <li type="disc">Certificados de HTML, CSS y JavaScript</li>
     <li type="disc">Especialización en Gestión de medios de producción en la industria altamente automatizada</li>
     <li type="disc">Grado superior de Robótica y Automatización Industrial</li>
-    <li type="disc">Certificados de Tia Portal y Universal Robots</li>
-    <li type="disc">Aprendiendo por diversión: C++, C#, Python, Kotlin, ...</li>
+    <li type="disc">Aprendiendo: React, Python para Backend, ...</li>
   </ul>
 </details>
 
