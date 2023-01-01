@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Naia!
 
-<img align="center" src="https://user-images.githubusercontent.com/110897750/210169202-4c3796f9-4a53-4cca-b8ba-650e373767ec.png"/>
+<img align="center" src="https://github.com/nlarrea/nlarrea/blob/main/nlarrea-github-banner.png"/>
 
 
 [![Twitter](https://img.shields.io/badge/@nloust__-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nloust_)
