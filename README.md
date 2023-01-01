@@ -1,4 +1,7 @@
-# ¡Hola, soy nlarrea!
+# 👋 ¡Hola, soy nlarrea!
+
+<img align="center" src="https://user-images.githubusercontent.com/110897750/210169202-4c3796f9-4a53-4cca-b8ba-650e373767ec.png"/>
+
 
 [![Twitter](https://img.shields.io/badge/@nloust__-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nloust_)
 [![Instagram](https://img.shields.io/badge/@n.loust-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/n.loust)
@@ -15,26 +18,7 @@
 </div> -->
 
 
-<!-- <img align="right" src="https://user-images.githubusercontent.com/110897750/202553655-6a8980f0-9a07-48e7-875c-73ce184cb525.png" width="30%"/> -->
-
-
 ## 🌱 Aprendiendo a programar
-
-```javascript
-const nlarrea = {
-
-    name: "Naia",
-    pronouns: "She" | "Her",
-    code: ["HTML", "CSS", "JavaScript", "Python", "R"],
-    languages: ["en_US", "es_ES", "eu_ES"],
-    
-    sayHi: function(){
-        console.log("Hello there!");
-    }
-}
-```
-
-<br>
 
 <p align="justify">Soy estudiante de <strong>Ingeniería Electrónica Industrial y Automática</strong>.
 Antes de comenzar mi camino en la universidad estudié un grado superior de <strong>Robótica y Automatización Industrial</strong> donde descubrí que me encantaba programar autómatas.</p>
@@ -52,6 +36,26 @@ Antes de comenzar mi camino en la universidad estudié un grado superior de <str
   </ul>
 </details>
 
+<br>
+
+```javascript
+// summary
+const nlarrea = {
+    name: "Naia",
+    pronouns: "She" | "Her",
+    
+    code: ["HTML", "CSS", "JavaScript", "Python", "R"],
+    languages: ["en_US", "es_ES", "eu_ES"],
+    
+    learning: ["React"],
+    
+    sayHi: function(){
+        console.log("Hello there!");
+    }
+};
+
+nlarrea.sayHi();
+```
 
 <br>
 
