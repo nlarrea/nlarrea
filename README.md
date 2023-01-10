@@ -94,8 +94,7 @@ nlarrea.sayHi();
 
 * ¿Alguien dijo algo de retos?
 
-[![Challenge JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=CodingChallenge-JavaScript&show_owner=true)](https://github.com/nlarrea/CodingChallenge-JavaScript)
-[![Challenge Python](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=CodingChallenge-Python&show_owner=true)](https://github.com/nlarrea/CodingChallenge-Python)
+[![Challenge 2022](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=coding-challenge-2022&show_owner=true)](https://github.com/nlarrea/coding-challenge-2022)
 
 
 <br>
