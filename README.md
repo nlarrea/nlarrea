@@ -42,9 +42,9 @@ Antes de comenzar mi camino en la universidad estudié un grado superior de <str
 // summary
 const nlarrea = {
     name: "Naia",
-    pronouns: "She" | "Her",
+    pronouns: "She" || "Her",
     
-    code: ["HTML", "CSS", "JavaScript", "Python", "R"],
+    code: ["HTML", "CSS", "JavaScript", "Python", "MATLAB"],
     languages: ["en_US", "es_ES", "eu_ES"],
     
     learning: ["React"],
