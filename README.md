@@ -102,6 +102,6 @@ nlarrea.sayHi();
 
 ### 📈 Estadísticas
 
-[![nlarrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlarrea&theme=onedark)](https://github.com/nlarrea/github-readme-stats)
-![nlarrea's Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nlarrea&theme=onedark&hide_border=false)
+![nlarrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlarrea&theme=onedark)
+![nlarrea's GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com?user=nlarrea&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nlarrea&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
