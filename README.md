@@ -87,14 +87,14 @@ nlarrea.sayHi();
 
 * Para aprender cositas de teoría (algunos están en progreso):
 
-[![Curso de R](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=R-desde-cero&show_owner=true)](https://github.com/nlarrea/R-desde-cero)
-[![Curso HTML y CSS](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=Curso-HTML-CSS&show_owner=true)](https://github.com/nlarrea/Curso-HTML-CSS)
+[![Curso de R](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=R-desde-cero&show_owner=true&theme=buefy)](https://github.com/nlarrea/R-desde-cero)
+[![Curso HTML y CSS](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=Curso-HTML-CSS&show_owner=true&theme=buefy)](https://github.com/nlarrea/Curso-HTML-CSS)
 
 <br>
 
 * ¿Alguien dijo algo de retos?
 
-[![Challenge 2022](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=coding-challenge-2022&show_owner=true)](https://github.com/nlarrea/coding-challenge-2022)
+[![Challenge 2022](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=coding-challenge-2022&show_owner=true&theme=buefy)](https://github.com/nlarrea/coding-challenge-2022)
 
 
 <br>
@@ -102,6 +102,6 @@ nlarrea.sayHi();
 
 ### 📈 Estadísticas
 
-![nlarrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlarrea&theme=onedark)
-![nlarrea's GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com?user=nlarrea&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nlarrea&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![nlarrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlarrea&theme=material-palenight&show_icons=true&include_all_commits=true)
+![nlarrea's GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com?user=nlarrea&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nlarrea&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=6&card_width=415)
