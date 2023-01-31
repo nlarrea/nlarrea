@@ -44,10 +44,10 @@ const nlarrea = {
     name: "Naia",
     pronouns: "She" || "Her",
     
-    code: ["HTML", "CSS", "JavaScript", "Python", "MATLAB"],
+    code: ["HTML", "CSS", "JavaScript", "Python", "C++"],
     languages: ["en_US", "es_ES", "eu_ES"],
     
-    learning: ["React"],
+    learning: ["React", "MATLAB"],
     
     sayHi: function(){
         console.log("Hello there!");
@@ -87,14 +87,14 @@ nlarrea.sayHi();
 
 * Para aprender cositas de teoría (algunos están en progreso):
 
-[![Curso de R](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=R-desde-cero&show_owner=true&theme=buefy)](https://github.com/nlarrea/R-desde-cero)
-[![Curso HTML y CSS](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=Curso-HTML-CSS&show_owner=true&theme=buefy)](https://github.com/nlarrea/Curso-HTML-CSS)
+[![Curso de R](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=R-desde-cero&show_owner=true&title_color=2A9D8F&text_color=264653&icon_color=E76F51)](https://github.com/nlarrea/R-desde-cero)
+[![Curso HTML y CSS](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=Curso-HTML-CSS&show_owner=true&title_color=2A9D8F&text_color=264653&icon_color=E76F51)](https://github.com/nlarrea/Curso-HTML-CSS)
 
 <br>
 
 * ¿Alguien dijo algo de retos?
 
-[![Challenge 2022](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=coding-challenge-2022&show_owner=true&theme=buefy)](https://github.com/nlarrea/coding-challenge-2022)
+[![Challenge 2022](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=coding-challenge-2022&show_owner=true&title_color=2A9D8F&text_color=264653&icon_color=E76F51)](https://github.com/nlarrea/coding-challenge-2022)
 
 
 <br>
@@ -102,6 +102,14 @@ nlarrea.sayHi();
 
 ### 📈 Estadísticas
 
-![nlarrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlarrea&theme=material-palenight&show_icons=true&include_all_commits=true)
-![nlarrea's GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com?user=nlarrea&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nlarrea&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=6&card_width=415)
+![nlarrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlarrea&show_icons=true&include_all_commits=true&count_private=true&bg_color=264653&text_color=2A9D8F&icon_color=E76F51&title_color=F4A261)
+![nlarrea's GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com?user=nlarrea&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=264653&fire=F4A261&ring=F4A261&dates=2A9D8F&currStreakNum=E9C46A&sideNums=F4A261&currStreakLabel=E9C46A&sideLabels=F4A261&stroke=E76F51)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nlarrea&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6&card_width=415&bg_color=264653&text_color=2A9D8F&title_color=F4A261)
+
+<!-- INFO
+GitHub Stats:
+  - Theme customization: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/index.js
+  - Customization: https://github.com/anuraghazra/github-readme-stats#themes
+Streak Stats:
+  - Customization: https://github.com/DenverCoder1/github-readme-streak-stats
+-->
