@@ -87,14 +87,14 @@ nlarrea.sayHi();
 
 * Para aprender cositas de teoría (algunos están en progreso):
 
-[![Curso de R](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=R-desde-cero&show_owner=true&title_color=2A9D8F&text_color=264653&icon_color=E76F51)](https://github.com/nlarrea/R-desde-cero)
-[![Curso HTML y CSS](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=Curso-HTML-CSS&show_owner=true&title_color=2A9D8F&text_color=264653&icon_color=E76F51)](https://github.com/nlarrea/Curso-HTML-CSS)
+[![Curso de R](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=R-desde-cero&show_owner=true&title_color=E95678E6&text_color=2E303E&icon_color=B877DBE6)](https://github.com/nlarrea/R-desde-cero)
+[![Curso HTML y CSS](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=Curso-HTML-CSS&show_owner=true&title_color=E95678E6&text_color=2E303E&icon_color=B877DBE6)](https://github.com/nlarrea/Curso-HTML-CSS)
 
 <br>
 
 * ¿Alguien dijo algo de retos?
 
-[![Challenge 2022](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=coding-challenge-2022&show_owner=true&title_color=2A9D8F&text_color=264653&icon_color=E76F51)](https://github.com/nlarrea/coding-challenge-2022)
+[![Challenge 2022](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=coding-challenge-2022&show_owner=true&title_color=E95678E6&text_color=2E303E&icon_color=B877DBE6)](https://github.com/nlarrea/coding-challenge-2022)
 
 
 <br>
@@ -102,9 +102,9 @@ nlarrea.sayHi();
 
 ### 📈 Estadísticas
 
-![nlarrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlarrea&show_icons=true&include_all_commits=true&count_private=true&bg_color=264653&text_color=2A9D8F&icon_color=E76F51&title_color=F4A261)
-![nlarrea's GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com?user=nlarrea&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=264653&fire=F4A261&ring=F4A261&dates=2A9D8F&currStreakNum=E9C46A&sideNums=F4A261&currStreakLabel=E9C46A&sideLabels=F4A261&stroke=E76F51)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nlarrea&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6&card_width=415&bg_color=264653&text_color=2A9D8F&title_color=F4A261)
+![nlarrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlarrea&show_icons=true&include_all_commits=true&count_private=true&bg_color=2E303E&text_color=FAB795B3&icon_color=B877DBE6&title_color=E95678E6)
+![nlarrea's GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com?user=nlarrea&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=2E303E&fire=E95678E6&ring=E95678E6&dates=FAB795B3&currStreakNum=B877DBE6&sideNums=E95678E6&currStreakLabel=B877DBE6&sideLabels=E95678E6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nlarrea&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6&card_width=415&bg_color=2E303E&text_color=FAB795B3&title_color=E95678E6)
 
 <!-- INFO
 GitHub Stats:
