@@ -47,7 +47,7 @@ const nlarrea = {
     code: ["HTML", "CSS", "JavaScript", "Python", "C++"],
     languages: ["en_US", "es_ES", "eu_ES"],
     
-    learning: ["React", "MATLAB"],
+    learning: ["Flask", "MongoDB"],
     
     sayHi: function(){
         console.log("Hello there!");
@@ -62,13 +62,15 @@ nlarrea.sayHi();
 
 ## 💻 Tecnologías
 
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://htmlreference.io/)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://cssreference.io/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/)
-[![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://posit.co/)
+[![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://htmlreference.io/)
+[![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://cssreference.io/)
+[![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+[![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=F2BD25)](https://www.python.org/)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)](https://sass-lang.com/)
+[![Flask](https://img.shields.io/badge/Flask-181717?style=for-the-badge&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.x/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
+[![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=R&logoColor=white)](https://posit.co/)
 
 
 <br>
