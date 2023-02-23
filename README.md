@@ -94,7 +94,13 @@ nlarrea.sayHi();
 
 <br>
 
-* ¿Alguien dijo algo de retos?
+* Cursando actualmente:
+
+[![DevCamp](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=DevCamp&show_owner=true&title_color=E95678E6&text_color=2e303e&icon_color=b877dbe6)](https://github.com/nlarrea/DevCamp)
+
+<br>
+
+* ¿Alguien dijo algo de practicar con ejercicios?
 
 [![Challenge 2022](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=coding-challenge-2022&show_owner=true&title_color=E95678E6&text_color=2E303E&icon_color=B877DBE6)](https://github.com/nlarrea/coding-challenge-2022)
 
