@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Naia!
 
-<img align="center" src="https://github.com/nlarrea/nlarrea/blob/main/nlarrea-github-banner.png"/>
+<img align="center" src="./nlarrea-github-banner.png"/>
 
 
 [![Twitter](https://img.shields.io/badge/@nlarrea__-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nlarrea_)
