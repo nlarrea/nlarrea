@@ -3,7 +3,7 @@
 <img align="center" src="https://github.com/nlarrea/nlarrea/blob/main/nlarrea-github-banner.png"/>
 
 
-[![Twitter](https://img.shields.io/badge/@nloust__-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nloust_)
+[![Twitter](https://img.shields.io/badge/@nlarrea__-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nlarrea_)
 [![Instagram](https://img.shields.io/badge/@n.loust-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/n.loust)
 [![LinkedIn](https://img.shields.io/badge/Naia_Larrea-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naia-larrea/)
 
