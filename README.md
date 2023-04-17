@@ -3,9 +3,9 @@
 <img align="center" src="./nlarrea-github-banner.png"/>
 
 
-[![Twitter](https://img.shields.io/badge/@nlarrea__-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nlarrea_)
-[![Instagram](https://img.shields.io/badge/@n.loust-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/n.loust)
-[![LinkedIn](https://img.shields.io/badge/Naia_Larrea-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naia-larrea/)
+[![Twitter](https://img.shields.io/badge/@nlarrea__-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/nlarrea_)
+[![Instagram](https://img.shields.io/badge/@n.loust-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/n.loust)
+[![LinkedIn](https://img.shields.io/badge/Naia_Larrea-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naia-larrea/)
 
 
 <!-- <div align="center">
@@ -87,6 +87,13 @@ nlarrea.sayHi();
 
 ### 📒 Repositorios más interesantes
 
+* Cursando actualmente:
+
+[![DevCamp](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=DevCamp&show_owner=true&title_color=E95678E6&text_color=2e303e&icon_color=b877dbe6)](https://github.com/nlarrea/DevCamp)
+[![Apuntes de Python](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=apuntes-de-python&show_owner=true&title_color=E95678E6&text_color=2e303e&icon_color=b877dbe6)](https://github.com/nlarrea/apuntes-de-python)
+
+<br>
+
 * Para aprender cositas de teoría (algunos están en progreso):
 
 [![Curso de R](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=R-desde-cero&show_owner=true&title_color=E95678E6&text_color=2E303E&icon_color=B877DBE6)](https://github.com/nlarrea/R-desde-cero)
@@ -94,13 +101,7 @@ nlarrea.sayHi();
 
 <br>
 
-* Cursando actualmente:
-
-[![DevCamp](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=DevCamp&show_owner=true&title_color=E95678E6&text_color=2e303e&icon_color=b877dbe6)](https://github.com/nlarrea/DevCamp)
-
-<br>
-
-* ¿Alguien dijo algo de practicar con ejercicios?
+* ¿Alguien dijo algo de practicar haciendo ejercicios? Aquí tienes 50 ejercicios:
 
 [![Challenge 2022](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=coding-challenge-2022&show_owner=true&title_color=E95678E6&text_color=2E303E&icon_color=B877DBE6)](https://github.com/nlarrea/coding-challenge-2022)
 
