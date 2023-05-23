@@ -47,7 +47,7 @@ const nlarrea = {
     code: ["HTML", "CSS", "JavaScript", "Python", "C++"],
     languages: ["en_US", "es_ES", "eu_ES"],
     
-    learning: ["Flask", "MongoDB"],
+    learning: ["React", "SQL"],
     
     sayHi: function(){
         console.log("Hello there!");
@@ -86,8 +86,6 @@ nlarrea.sayHi();
 
 
 ### 📒 Repositorios más interesantes
-
-* Quizá te interese:
 
 [![DevCamp](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=DevCamp&show_owner=true&title_color=E95678E6&text_color=2e303e&icon_color=b877dbe6)](https://github.com/nlarrea/DevCamp)
 [![Apuntes de Python](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=apuntes-de-python&show_owner=true&title_color=E95678E6&text_color=2e303e&icon_color=b877dbe6)](https://github.com/nlarrea/apuntes-de-python)
