@@ -36,7 +36,7 @@ Antes de comenzar mi camino en la universidad estudié un grado superior de <str
   </ul>
 </details>
 
-<br>
+<br/>
 
 ```javascript
 // summary
@@ -57,7 +57,7 @@ const nlarrea = {
 nlarrea.sayHi();
 ```
 
-<br>
+<br/>
 
 
 ## 💻 Tecnologías
@@ -73,7 +73,7 @@ nlarrea.sayHi();
 [![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=R&logoColor=white)](https://posit.co/)
 
 
-<br>
+<br/>
 
 
 ## 📌 GitHub
@@ -82,37 +82,25 @@ nlarrea.sayHi();
 <strong>.. ¡No dudes en comentar posibles mejoras!</strong> Estoy aquí para aprender y, ¡toda la ayuda es <strong>bienvenida</strong>!
 
 
-<br>
+<br/>
 
 
 ### 📒 Repositorios más interesantes
 
-* Cursando actualmente:
+* Quizá te interese:
 
 [![DevCamp](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=DevCamp&show_owner=true&title_color=E95678E6&text_color=2e303e&icon_color=b877dbe6)](https://github.com/nlarrea/DevCamp)
 [![Apuntes de Python](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=apuntes-de-python&show_owner=true&title_color=E95678E6&text_color=2e303e&icon_color=b877dbe6)](https://github.com/nlarrea/apuntes-de-python)
-
-<br>
-
-* Para aprender cositas de teoría (algunos están en progreso):
-
 [![Curso de R](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=R-desde-cero&show_owner=true&title_color=E95678E6&text_color=2E303E&icon_color=B877DBE6)](https://github.com/nlarrea/R-desde-cero)
-[![Curso HTML y CSS](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=Curso-HTML-CSS&show_owner=true&title_color=E95678E6&text_color=2E303E&icon_color=B877DBE6)](https://github.com/nlarrea/Curso-HTML-CSS)
-
-<br>
-
-* ¿Alguien dijo algo de practicar haciendo ejercicios? Aquí tienes 50 ejercicios:
-
-[![Challenge 2022](https://github-readme-stats.vercel.app/api/pin/?username=nlarrea&repo=coding-challenge-2022&show_owner=true&title_color=E95678E6&text_color=2E303E&icon_color=B877DBE6)](https://github.com/nlarrea/coding-challenge-2022)
 
 
-<br>
+<br/>
 
 
 ### 📈 Estadísticas
 
 ![nlarrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlarrea&show_icons=true&include_all_commits=true&count_private=true&bg_color=2E303E&text_color=FAB795B3&icon_color=B877DBE6&title_color=E95678E6)
-![nlarrea's GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com?user=nlarrea&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=2E303E&fire=E95678E6&ring=E95678E6&dates=FAB795B3&currStreakNum=B877DBE6&sideNums=E95678E6&currStreakLabel=B877DBE6&sideLabels=E95678E6)
+<!-- ![nlarrea's GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com?user=nlarrea&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=2E303E&fire=E95678E6&ring=E95678E6&dates=FAB795B3&currStreakNum=B877DBE6&sideNums=E95678E6&currStreakLabel=B877DBE6&sideLabels=E95678E6) -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nlarrea&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6&card_width=415&bg_color=2E303E&text_color=FAB795B3&title_color=E95678E6)
 
 <!-- INFO
