@@ -3,9 +3,9 @@
 <img align="center" src="./nlarrea-github-banner.png"/>
 
 
-[![Twitter](https://img.shields.io/badge/@nlarrea__-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/nlarrea_)
-[![Instagram](https://img.shields.io/badge/@n.loust-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/n.loust)
-[![LinkedIn](https://img.shields.io/badge/Naia_Larrea-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naia-larrea/)
+[![Twitter](https://img.shields.io/badge/@nlarrea__-000000?style=flat-square&logo=X&logoColor=white)](https://twitter.com/nlarrea_)
+[![Instagram](https://img.shields.io/badge/@n.loust-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/n.loust)
+[![LinkedIn](https://img.shields.io/badge/Naia_Larrea-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naia-larrea/)
 
 
 <!-- <div align="center">
@@ -44,10 +44,10 @@ const nlarrea = {
     name: "Naia",
     pronouns: "She" || "Her",
     
-    code: ["HTML", "CSS", "JavaScript", "Python", "C++"],
+    code: ["HTML", "CSS", "JavaScript", "Python", "React"],
     languages: ["en_US", "es_ES", "eu_ES"],
     
-    learning: ["React", "SQL"],
+    learning: ["Improving React's knowledge"],
     
     sayHi: function(){
         console.log("Hello there!");
@@ -67,10 +67,11 @@ nlarrea.sayHi();
 [![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=F2BD25)](https://www.python.org/)
 [![React](https://img.shields.io/badge/react-181717?style=for-the-badge&logo=react&logoColor=5CCFEE)](https://react.dev/)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)](https://sass-lang.com/)
-[![Flask](https://img.shields.io/badge/Flask-181717?style=for-the-badge&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.x/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)](https://sass-lang.com/)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Flask](https://img.shields.io/badge/Flask-181717?style=for-the-badge&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.x/)
 [![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=R&logoColor=white)](https://posit.co/)
 
 
