@@ -47,7 +47,7 @@ const nlarrea = {
     code: ["HTML", "CSS", "JavaScript", "Python", "React"],
     languages: ["en_US", "es_ES", "eu_ES"],
     
-    learning: ["Improving React's knowledge"],
+    learning: ["Django"],
     
     sayHi: function(){
         console.log("Hello there!");
