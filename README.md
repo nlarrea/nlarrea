@@ -1,20 +1,21 @@
 # 👋 ¡Hola, soy Naia!
 
-<img align="center" src="./nlarrea-github-banner.png"/>
+<img align="center" src="./github-banner-light.jpg"/>
+
+<!-- <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/github-banner-dark.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="./images/github-banner-light.jpg">
+    <img width="811" alt="Shows a light header in light color mode and a dark header in dark color mode" src="./images/github-banner-light.jpg">
+  </picture>
+</div> -->
+
+<br/>
 
 
 [![Twitter](https://img.shields.io/badge/@nlarrea__-000000?style=flat-square&logo=X&logoColor=white)](https://twitter.com/nlarrea_)
 [![Instagram](https://img.shields.io/badge/@n.loust-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/n.loust)
 [![LinkedIn](https://img.shields.io/badge/Naia_Larrea-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naia-larrea/)
-
-
-<!-- <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/110897750/189206123-8d8b0980-63a4-41cc-850c-3d603e24b9d4.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/110897750/189229193-4512c056-e934-4338-b5f2-a5131841e22a.png">
-    <img width="811" alt="Shows a light header in light color mode and a dark header in dark color mode" src="https://user-images.githubusercontent.com/110897750/189229193-4512c056-e934-4338-b5f2-a5131841e22a.png">
-  </picture>
-</div> -->
 
 
 ## 🌱 Aprendiendo a programar
@@ -27,7 +28,7 @@ Antes de comenzar mi camino en la universidad estudié un grado superior de <str
 <!-- desplegable sobre mis estudios: -->
 <details><summary>Mis estudios</summary>
   <ul> <!-- lista con mis estudios realizados -->
-    <li type="disc">Coding Foundations, impartido por Bottega University</li>
+    <li type="disc">Full-Stack Developer, impartido por Bottega University</li>
     <li type="disc">Ingeniería Electrónica Industrial y Automática, en la Escuela de Ingenieros de Bilbao</li>
     <li type="disc">Certificados de HTML, CSS y JavaScript</li>
     <li type="disc">Especialización en Gestión de medios de producción en la industria altamente automatizada</li>
